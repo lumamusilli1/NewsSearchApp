@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Réglages</string>
+    <string name="menu_home">Maison</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="search_any_news_article">Rechercher n\'importe quel article d\'actualité</string>
+    <string name="search_news_articles_from_the_guardian">Rechercher des articles de presse de The Guardian</string>
+    <string name="search">Rechercher</string>
+    <string name="no_query_message">Veuillez entrer quelque chose pour obtenir des résultats</string>
+    <string name="no_results_message">Aucun résultat pour cette recherche, merci d\'en saisir une autre</string>
+    <string name="menu_favorites">Favoris</string>
+    <string name="add_to_favorites">Ajouter aux Favoris</string>
+    <string name="remove_from_favorites">Retirer des favoris</string>
+    <string name="all_favorites">Tous les articles favoris</string>
+    <string name="removed_from_fav">Supprimé des favoris</string>
+    <string name="alert">Alerte!</string>
+    <string name="alert_message">Voulez-vous supprimer cet article des Favoris ?</string>
+    <string name="no_favorites">Pas de favoris :(</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="Ok">D\'accord</string>
+    <string name="screen_info">Informations sur l\'écran</string>
+    <string name="home_screen_info">Si vous ne voyez aucun résultat, entrez n\'importe quel terme (par exemple tesla) pour obtenir les articles. Si vous avez vu des articles, ceux-ci proviennent de votre dernière recherche. Vous pouvez modifier la langue de l\'application à partir du menu supérieur de la barre d\'action. Si vous voulez voir les favoris, cliquez sur l\'icône hamburger.</string>
+    <string name="favorite_screen_info">Ce sont tous les articles favoris de votre dernière recherche. Si vous n\'avez vu aucune entrée dans le favori, vous pouvez ajouter au favori à partir de l'activité Détail de l'article.</string>
+    <string name="article_detail_screen_info">Voici les détails de l\'article sélectionné. Vous pouvez lire sa description complète en cliquant sur le lien. Vous pouvez ajouter son article aux favoris pour une lecture ultérieure. Si cet article est déjà dans les favoris, vous pouvez le supprimer des favoris.</string>
+        <string name="chooseapp_language">Choisissez la langue de l\'application</string>
+</resources>
